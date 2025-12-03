@@ -1,4 +1,4 @@
-package ir.dadepardazafagh.mircroservices.microservieB;
+package ir.dadepardazafagh.mircroservices.microserviceB;
 
 import ir.dadepardazafagh.mircroservices.service.CleanupService;
 import lombok.RequiredArgsConstructor;
