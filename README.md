@@ -1,7 +1,6 @@
 ## 🚀 Generate 5 Million Persian User in Under 30 Seconds.
-This project benchmarks different strategies for high-volume data insertion using Java and PostgreSQL
-and implement the most efficient method to insert 5,000,000 Persian user records into PostgreSQL and automatically clean them up — in the fastest and most efficient way using Java.
-
+This repo benchmarks different strategies for high-volume data insertion using Java and PostgreSQL
+and implement the fastest and most efficient way to insert 5,000,000 Persian user records into PostgreSQL and automatically clean them up.
 مشخصات پروژه؛  
 Spring Boot 3.5.8 + PostgreSQL COPY + RabbitMQ Event-Driven
 
